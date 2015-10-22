@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Icon生成工具.exe" size="8704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Icon生成工具.exe" size="10240">
       <assemblyIdentity name="Icon生成工具" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kUZ2vKbRasyxp1I3DUNlJ8BW/PLNpGJUfU5Pycx7H2M=</dsig:DigestValue>
+        <dsig:DigestValue>LSQV/N+nOI6+CMMnfklIFcGAoTyeCvy2h4+EBR1PLko=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
